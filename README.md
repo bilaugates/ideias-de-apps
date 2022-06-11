@@ -1,4 +1,4 @@
-## :ledger: App Ideas Collection
+## :ledger: Coleção de ideias de apps
 
 ![App Ideas Image](./app-ideas.png)
 
